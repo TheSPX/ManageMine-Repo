@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="ManageMine-Setup-1.2.0.exe">
+  <a href="ManageMine-Setup-1.3.0-beta.1.exe">
     <img src="assets/download.svg" alt="Download the ManageMine beta" width="380">
   </a>
 </p>
 
 <p align="center">
-  <sub><b>Beta access</b> &nbsp;·&nbsp; Windows &nbsp;·&nbsp; Version 1.2.0 &nbsp;·&nbsp; Free</sub>
+  <sub><b>Beta access</b> &nbsp;·&nbsp; Windows &nbsp;·&nbsp; Version 1.3.0 beta &nbsp;·&nbsp; Free</sub>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ No sign-up. No subscription. Just install it and go.
 
 **See it all.** Your views, likes, comments and followers from LinkedIn, YouTube, Instagram and TikTok, side by side. If ManageMine can't read a number, it tells you, so you are never looking at old numbers without knowing.
 
-**Post once.** Add your video, title and description one time. ManageMine fills them in on every platform for you, and shows a live character count for each one, so you know your post fits before you send it.
+**Post once.** Add your video, title and description one time. ManageMine fills them in on every platform for you, and shows a live character count for each one, so you know your post fits before you send it. Afterwards it tells you how each one went — and when it can't confirm a post actually went live, it says **Unconfirmed** instead of claiming success.
 
 **Try it safely.** Test Mode is switched on by default. ManageMine does everything except press the final Publish button, so you can see exactly what would happen. Nothing goes live until you say so.
 
@@ -46,7 +46,7 @@ No sign-up. No subscription. Just install it and go.
   <img src="assets/steps.svg" alt="Three steps: download, install, and say hello." width="100%">
 </p>
 
-1. **Download.** Click **Download the beta** at the top of this page, or open `ManageMine-Setup-1.2.0.exe` above and press the download button.
+1. **Download.** Click **Download the beta** at the top of this page, or open `ManageMine-Setup-1.3.0-beta.1.exe` above and press the download button.
 2. **Install.** Open the file you downloaded and follow the screens, like any other app.
 3. **Say hello.** ManageMine opens with a short welcome guide. It helps you connect your first account and try a safe test post.
 
@@ -80,6 +80,17 @@ This is a **beta**, which means it works, but it is still growing.
 - **Platforms change their pages.** ManageMine works the way you do, through your browser, so when a platform redesigns something, one feature may stop working until we update it.
 - **You need Chrome, Edge, Brave, Opera or Vivaldi.** ManageMine uses the one you already use every day. If your main browser is Firefox, it will use Chrome or Edge instead, so you need one of those installed.
 - **Windows.** Made for Windows. Tested on Windows 11.
+
+<br>
+
+## New in this build
+
+This release is mostly about telling you the truth, even when the truth is boring.
+
+- **It no longer says "Published" when it isn't.** After you post, ManageMine checks each platform for proof. If it finds none, that platform reads **Unconfirmed**, so you know to go and look yourself.
+- **"Connected" now means connected.** An account is marked linked only once you are actually signed in — not because a sign-in window opened.
+- **No invented numbers.** A stat that could not be read now stays blank instead of showing a confident `0`.
+- **Your description reaches TikTok too.** Title, description and hashtags are all submitted, not just the title.
 
 <br>
 
